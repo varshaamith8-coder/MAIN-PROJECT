@@ -1,4 +1,3 @@
-# MAIN-PROJECT
 # 🚗 Electric Vehicle Population Data Analysis Using Python
 ## 📌 PROJECT OVERVIEW
 This project focuses on analyzing **Electric Vehicle (EV) Population Data** using Python and Pandas. The dataset contains information about electric vehicles, including vehicle make and model, model year, electric range, vehicle type, location, and other related details.
